@@ -11,5 +11,13 @@
   "dependencies": {
     "express": "^4.10.2",
     "socket.io": "^1.5.0"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/momus300/socketIo.git"
+  },
+  "bugs": {
+    "url": "https://github.com/momus300/socketIo/issues"
   }
 }
